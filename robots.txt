@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meevauhad.lucarmona.com.ve/sitemap.xml
